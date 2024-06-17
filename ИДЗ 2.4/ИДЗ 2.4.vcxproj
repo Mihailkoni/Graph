@@ -127,11 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Graph.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Array_Sort.h" />
     <ClInclude Include="Circular_Doubly_Linked_List.h" />
+    <ClInclude Include="Graph.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Input.txt" />
